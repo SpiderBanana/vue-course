@@ -63,7 +63,7 @@ export default {
 
 </template>
 
-<style lang="scss">
+<style>
 @media (min-width: 1024px) {
   .personnages {
     min-height: 100vh;
